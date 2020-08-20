@@ -28,6 +28,6 @@
 [twitter]: https://twitter.com/lebhal
 [youtube]: https://www.youtube.com/channel/UC_Dqt6An7ZESJCJW6WqvcRw?view_as=subscriber
 [instagram]: https://www.instagram.com/aleb.journey
-[linkedin]: https://www.linkedin.com/in/lebhal/  <A HREF="mailto:san@antonio.net">san@antonio.net</A>
+[linkedin]: https://www.linkedin.com/in/lebhal/
 [e-mail]: mailto:lebhal@gmail.com
 
