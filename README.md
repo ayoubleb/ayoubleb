@@ -5,8 +5,6 @@
 - 📫 How to reach me: I'm a connected human being, choose any channel and you'll find me there 
 - ⚡ Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox.
 
-<br />
-<br />
 
 ### Connect with me:
 
