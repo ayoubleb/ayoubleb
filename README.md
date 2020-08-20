@@ -1,4 +1,4 @@
-### Hi there, I'm [Ayoub](https://ayoubleb.github.io/Ayoublebhal) 👋 a Developer, Businessman, Photographer, traveler, and a Dreamer!
+### Hi there, I'm [Ayoub](https://ayoubleb.github.io/Ayoublebhal) 👋 a Developer, Businessman, Photographer, Traveler, and a Dreamer!
 
 ### Connect with me:
 
@@ -11,6 +11,8 @@
 
 <br />
 <br />
+
+### More about me:
 
 - 🌱 I’m currently learning Typescript & Some design patterns
 - 💬 Ask me about anything [here](https://github.com/ayoubleb/ayoubleb/issues)
