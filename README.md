@@ -1,5 +1,13 @@
 ### Hi there, I'm [Ayoub](https://ayoubleb.github.io/Ayoublebhal) 👋 a Developer, Businessman, Photographer, Traveler, and a Dreamer!
 
+- 🌱 I’m currently learning Typescript & Some design patterns
+- 💬 Ask me about anything [here](https://github.com/ayoubleb/ayoubleb/issues)
+- 📫 How to reach me: I'm a connected human being, choose any channel and you'll find me there 
+- ⚡ Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox.
+
+<br />
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="ayoubleb.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -11,14 +19,6 @@
 
 <br />
 <br />
-
-### More about me:
-
-- 🌱 I’m currently learning Typescript & Some design patterns
-- 💬 Ask me about anything [here](https://github.com/ayoubleb/ayoubleb/issues)
-- 📫 How to reach me: I'm a connected human being, choose any channel and you'll find me there 
-- ⚡ Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox.
-
 
 <details>
   <summary>:zap: Github Stats</summary>
