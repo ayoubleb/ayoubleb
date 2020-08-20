@@ -7,6 +7,7 @@
 [<img align="left" alt="ayoubleb | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ayoubleb | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ayoubleb | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ayoubleb | google" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][google]
 
 <br />
 <br />
@@ -29,5 +30,5 @@
 [youtube]: https://www.youtube.com/channel/UC_Dqt6An7ZESJCJW6WqvcRw?view_as=subscriber
 [instagram]: https://www.instagram.com/aleb.journey
 [linkedin]: https://www.linkedin.com/in/lebhal/
-[e-mail]: mailto:lebhal@gmail.com
+[google]: mailto:lebhal@gmail.com
 
