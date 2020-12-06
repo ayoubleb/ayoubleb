@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ayoub](https://ayoubleb.github.io/Ayoublebhal) 👋 a Developer, Businessman, Photographer, Traveler, and a Dreamer!
 
-- 🌱 I’m currently learning Typescript & Some design patterns
+- 🌱 I’m currently learning to unlearn so that i can learn better
 - 💬 Ask me about anything [here](https://github.com/ayoubleb/ayoubleb/issues)
 - 📫 How to reach me: I'm a connected human being, choose any channel and you'll find me there 
 - ⚡ Fun fact: If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox.
