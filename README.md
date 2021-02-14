@@ -25,7 +25,7 @@
 
 </details>
 
-[website]: https://ayoubleb.github.io/Ayoublebhal
+[website]: https://www.ayoublebhal.me/
 [twitter]: https://twitter.com/lebhal
 [youtube]: https://www.youtube.com/channel/UC_Dqt6An7ZESJCJW6WqvcRw?view_as=subscriber
 [instagram]: https://www.instagram.com/aleb.journey
