@@ -1,4 +1,4 @@
-### Hi there, I'm [Ayoub](https://ayoubleb.github.io/Ayoublebhal) 👋 a Developer, Businessman, Photographer, Traveler, and a Dreamer!
+### Hi there, I'm [Ayoub](https://ayoublebhal.me).
 
 - 🌱 I’m currently learning to unlearn so that i can learn better
 - 💬 Ask me about anything [here](https://github.com/ayoubleb/ayoubleb/issues)
